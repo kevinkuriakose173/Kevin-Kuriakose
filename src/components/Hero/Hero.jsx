@@ -6,7 +6,7 @@ import githubLight from '../../assets/github-light.svg'
 import githubDark from '../../assets/github-dark.svg'
 import sun from '../../assets/sun.svg'
 import moon from '../../assets/moon.svg'
-import resume from '../../assets/resume.pdf'
+import resume from '../../assets/KevinKuriakoseResume.pdf'
 import {useTheme} from '../../common/ThemeContext'
 
 function Hero() {
