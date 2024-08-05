@@ -13,7 +13,7 @@ function Projects() {
           link="https://drive.google.com/file/d/1OQeM5nqhu_r_2fbkvtBibWnqnZqa666k/view" h3="Spotify Stats Tracker and Music Recommendation System" />
         <ProjectCard 
           src={rutgersProjectIcon} 
-          link="https://drive.google.com/file/d/1tHim2gPkt2R96u9NEZY0tcjmz69isah-/view" h3="Rutgers Prerequisite Checker" />
+          link="https://drive.google.com/file/d/1oc_7SziOn3kDenbZEX-ephbhEasc4cyT/view" h3="Rutgers Prerequisite Checker" />
       </div>
     </section>
   )
