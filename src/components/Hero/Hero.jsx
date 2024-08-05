@@ -38,7 +38,7 @@ function Hero() {
                     </a>
                 </span>
                 <p className='description'>
-                    A Rutgers Computer Science Student looking to code some stuff ig
+                    A Rutgers Computer Science Student
                 </p>
                 <a href={resume} download>
                     <button className="hover">
