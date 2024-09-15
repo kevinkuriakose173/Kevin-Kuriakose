@@ -3,6 +3,7 @@ import ProjectCard from '../../common/ProjectCard'
 import spotifyProjectIcon from '../../assets/Spotify-Playlist-Creator.png'
 import rutgersProjectIcon from '../../assets/Rutgers-Logo.png'
 import todolistIcon from '../../assets/todolistIcon.png'
+import expenseTrackerIcon from '../../assets/ExpenseTrackerIcon.png'
 
 function Projects() {
 
@@ -27,7 +28,13 @@ function Projects() {
           link="https://drive.google.com/file/d/1JNf_QUYj2rCqG7J4Y7u9XEdopik0N35D/view" 
           h3="ToDo List App" 
           gitlink="https://github.com/kevinkuriakose173/todoListApp"
-          />
+        />
+        <ProjectCard
+          src={expenseTrackerIcon}
+          link="https://drive.google.com/file/d/11h7uTvam7ODU8YgaulI9Wwvz0oq5RRVh/view"
+          h3="Expense Tracker"
+          gitlink="https://github.com/kevinkuriakose173/expense-tracker"
+        />
       </div>
     </section>
   )
