@@ -13,13 +13,13 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard 
           src={spotifyProjectIcon} 
-          link="https://drive.google.com/file/d/1OQeM5nqhu_r_2fbkvtBibWnqnZqa666k/view" 
+          link="https://drive.google.com/file/d/1kGYhOA-ontkkjs66-UU2thPLh9pfpitW/view" 
           h3="Spotify Stats Tracker and Music Recommendation System" 
           gitlink="https://github.com/kevinkuriakose173/spotify-playlist-creator"
         />
         <ProjectCard 
           src={rutgersProjectIcon} 
-          link="https://drive.google.com/file/d/1oc_7SziOn3kDenbZEX-ephbhEasc4cyT/view" 
+          link="https://drive.google.com/file/d/1t-zcjvViL-657xHSbcQcR2go3JBwL7If/view" 
           h3="Rutgers Prerequisite Checker" 
           gitlink="https://github.com/kevinkuriakose173/ComputerScienceSchedulePlanner"
         />
@@ -31,7 +31,7 @@ function Projects() {
         />
         <ProjectCard
           src={expenseTrackerIcon}
-          link="https://drive.google.com/file/d/11h7uTvam7ODU8YgaulI9Wwvz0oq5RRVh/view"
+          link="https://drive.google.com/file/d/14wVYhjjQ3k2zUI77Q3LXJ1Xffe1KBhWF/view"
           h3="Expense Tracker"
           gitlink="https://github.com/kevinkuriakose173/expense-tracker"
         />
